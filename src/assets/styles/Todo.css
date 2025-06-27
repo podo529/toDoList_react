@@ -1,0 +1,8 @@
+main {
+    border:1px solid #bbb;
+    padding:10px;
+    display: flex; justify-content:space-between;
+    margin: 20px 0;
+}
+main input {}
+main button {}

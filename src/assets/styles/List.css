@@ -1,0 +1,13 @@
+li {
+    margin:10px 0;
+    display:grid;
+    grid-template-columns:0.5fr 3fr 0.5fr;
+    border-bottom:1px solid #bbb;
+    padding: 10px 0;
+}
+li input {}
+li span {
+    font-size:1.25rem;
+
+}
+li button {}
